@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bachelorette.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bachelorette.Designer.cs">
+      <DependentUpon>Bachelorette.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +67,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bachelorette.resx">
+      <DependentUpon>Bachelorette.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -92,6 +101,45 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\00-OFFICIAL-AdDU-Seal-500px-300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\078461-blue-jelly-icon-business-charts1-sc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anon_nh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_google_chrome_icon_by_alsay-d40hmy3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location_map_pin_light_blue8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open-box-flat-blue-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pan-am-airline-logo-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\svcIcons_RealTimeBusiness.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th1V8Z1UUX.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thUH764WOU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\San%2520Jose%2520Seminary%2520Main%2520Bldg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th0BA5QL39.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-globe-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Free-Culture-Logo-Blue.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

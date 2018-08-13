@@ -69,5 +69,135 @@ namespace MiniSAD.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _078461_blue_jelly_icon_business_charts1_sc1 {
+            get {
+                object obj = ResourceManager.GetObject("_078461_blue_jelly_icon_business_charts1_sc1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap anon_nh1 {
+            get {
+                object obj = ResourceManager.GetObject("anon_nh1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap blue_globe_logo {
+            get {
+                object obj = ResourceManager.GetObject("blue_globe_logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap blue_google_chrome_icon_by_alsay_d40hmy3 {
+            get {
+                object obj = ResourceManager.GetObject("blue_google_chrome_icon_by_alsay_d40hmy3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Free_Culture_Logo_Blue {
+            get {
+                object obj = ResourceManager.GetObject("Free_Culture_Logo_Blue", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap location_map_pin_light_blue8 {
+            get {
+                object obj = ResourceManager.GetObject("location_map_pin_light_blue8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap open_box_flat_blue_icon {
+            get {
+                object obj = ResourceManager.GetObject("open_box_flat_blue_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pan_am_airline_logo_1 {
+            get {
+                object obj = ResourceManager.GetObject("pan_am_airline_logo_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap San_20Jose_20Seminary_20Main_20Bldg {
+            get {
+                object obj = ResourceManager.GetObject("San_20Jose_20Seminary_20Main_20Bldg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap svcIcons_RealTimeBusiness {
+            get {
+                object obj = ResourceManager.GetObject("svcIcons_RealTimeBusiness", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap th0BA5QL39 {
+            get {
+                object obj = ResourceManager.GetObject("th0BA5QL39", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap th1V8Z1UUX {
+            get {
+                object obj = ResourceManager.GetObject("th1V8Z1UUX", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap thUH764WOU {
+            get {
+                object obj = ResourceManager.GetObject("thUH764WOU", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

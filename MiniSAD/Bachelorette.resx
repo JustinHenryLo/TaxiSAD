@@ -117,47 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="anon_nh1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\anon_nh1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="blue_google_chrome_icon_by_alsay_d40hmy3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blue_google_chrome_icon_by_alsay-d40hmy3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="location_map_pin_light_blue8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\location_map_pin_light_blue8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="open_box_flat_blue_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\open-box-flat-blue-icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pan_am_airline_logo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pan-am-airline-logo-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="svcIcons_RealTimeBusiness" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\svcIcons_RealTimeBusiness.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="th1V8Z1UUX" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\th1V8Z1UUX.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="thUH764WOU" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\thUH764WOU.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_00_OFFICIAL_AdDU_Seal_500px_300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\00-OFFICIAL-AdDU-Seal-500px-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_078461_blue_jelly_icon_business_charts1_sc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\078461-blue-jelly-icon-business-charts1-sc1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="San_20Jose_20Seminary_20Main_20Bldg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\San%20Jose%20Seminary%20Main%20Bldg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="blue_globe_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blue-globe-logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="th0BA5QL39" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\th0BA5QL39.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Free_Culture_Logo_Blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Free-Culture-Logo-Blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
